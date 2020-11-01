@@ -51,7 +51,7 @@
   .lead{
     font-size: 1.8rem;
     font-family: "Sriracha";
-    background: url("/static/img/bg.jpeg");
+    background: url("/img/bg.jpeg");
     padding-top: 30vh;
     padding-bottom: 10vh;
   }
